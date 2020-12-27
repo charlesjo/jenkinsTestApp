@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/jenkinsTestApp.dir/main.cpp.o CMakeFiles/jenkinsTestApp.dir/ApTest.cpp.o  -o jenkinsTestApp -rdynamic 
