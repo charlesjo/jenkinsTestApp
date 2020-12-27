@@ -2,7 +2,6 @@ mkdir -p build
 cd build 
 cmake ..
 make all
-jenkinsTestApp 
-cd ..
+jenkinsTestApp
 cd Google_tests 
 Google_Tests_run
