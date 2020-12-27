@@ -1,0 +1,6 @@
+/home/charlesjo/ap/jenkinsTestApp/build/CMakeFiles/jenkinsTestApp.dir
+/home/charlesjo/ap/jenkinsTestApp/build/Google_tests/CMakeFiles/Google_Tests_run.dir
+/home/charlesjo/ap/jenkinsTestApp/build/Google_tests/lib/googlemock/CMakeFiles/gmock_main.dir
+/home/charlesjo/ap/jenkinsTestApp/build/Google_tests/lib/googlemock/CMakeFiles/gmock.dir
+/home/charlesjo/ap/jenkinsTestApp/build/Google_tests/lib/googletest/CMakeFiles/gtest_main.dir
+/home/charlesjo/ap/jenkinsTestApp/build/Google_tests/lib/googletest/CMakeFiles/gtest.dir

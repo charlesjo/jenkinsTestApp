@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/charlesjo/ap/jenkinsTestApp/ApTest.cpp
+ApTest.h
+/home/charlesjo/ap/jenkinsTestApp/ApTest.h
+
+/home/charlesjo/ap/jenkinsTestApp/ApTest.h
+iostream
+-
+
+/home/charlesjo/ap/jenkinsTestApp/main.cpp
+iostream
+-
+ApTest.h
+/home/charlesjo/ap/jenkinsTestApp/ApTest.h
+
